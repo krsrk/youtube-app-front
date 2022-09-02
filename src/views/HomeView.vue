@@ -23,7 +23,7 @@
 <script>
 import { defineComponent } from 'vue';
 
-import TheYoutubeVideoList from '@/components/TheYoutubeVideoList';
+import TheYoutubeVideoList from '@/components/TheYoutubeVideoList'; //Youtube List Component
 
 export default defineComponent({
     name: 'HomeView',
